@@ -19,7 +19,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 
 		<!-- dependency version -->
-		<spring-boot.version>2.5.6</spring-boot.version>
+		<spring-boot.version>3.0.11</spring-boot.version>
 		<spring-brick.version>3.1.0</spring-brick.version>
 		<junit.version>4.13</junit.version>
 		<mybatis-plus.version>3.5.2</mybatis-plus.version>
