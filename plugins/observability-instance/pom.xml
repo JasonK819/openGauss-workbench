@@ -21,7 +21,7 @@
 		<!-- dependency version -->
 		<spring-brick.version>3.1.0</spring-brick.version>
 		<junit.version>4.13</junit.version>
-		<mybatis-plus.version>3.5.2</mybatis-plus.version>
+		<mybatis-plus.version>3.5.3</mybatis-plus.version>
 		<fastjson.version>1.2.78</fastjson.version>
 		<lombok.version>1.18.24</lombok.version>
 		<hutool.version>5.0.3</hutool.version>
